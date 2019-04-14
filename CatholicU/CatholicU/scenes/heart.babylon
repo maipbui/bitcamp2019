@@ -1,0 +1,23 @@
+{"producer":{"name":"Blender","version":"2.74 (sub 0)","exporter_version":"4.6.1","file":"heart.babylon"},
+"autoClear":true,"clearColor":[0.2,0.2,0.2],"ambientColor":[0,0,0],"gravity":[0,-9.81,0],
+"materials":[],
+"multiMaterials":[],
+"skeletons":[],
+"meshes":[{"name":"Heart_N170111.001","id":"Heart_N170111.001","position":[0,0,0],"rotationQuaternion":[0,0,0,-1],"scaling":[1,1,1],"isVisible":false,"isEnabled":true,"checkCollisions":false,"billboardMode":0,"receiveShadows":false},{"name":"LightPreset","id":"LightPreset","position":[0.0367,0,0],"rotationQuaternion":[0,0,0,-1],"scaling":[1,1,1],"isVisible":false,"isEnabled":true,"checkCollisions":false,"billboardMode":0,"receiveShadows":false},{"name":"CameraPreset","id":"CameraPreset","position":[0.0367,0,0],"rotationQuaternion":[0,0,0,-1],"scaling":[1,1,1],"isVisible":false,"isEnabled":true,"checkCollisions":false,"billboardMode":0,"receiveShadows":false
+,"animations":[{"dataType":2,"framePerSecond":29,"keys":[
+{"frame":0,"values":[0,0,0,-1]},
+{"frame":120,"values":[0,0.866,0,-0.5]},
+{"frame":240,"values":[0,-0.866,0,-0.5]},
+{"frame":360,"values":[0,0,0,-1]}],"loopBehavior":1,"name":"rotationQuaternion animation","property":"rotationQuaternion"},{"dataType":1,"framePerSecond":29,"keys":[
+{"frame":0,"values":[0.0367,0,0]},
+{"frame":120,"values":[0.0367,0,0]},
+{"frame":240,"values":[0.0367,0,0]},
+{"frame":360,"values":[0.0367,0,0]}],"loopBehavior":1,"name":"position animation","property":"position"},{"dataType":1,"framePerSecond":29,"keys":[
+{"frame":0,"values":[1,1,1]},
+{"frame":120,"values":[1,1,1]},
+{"frame":240,"values":[1,1,1]},
+{"frame":360,"values":[1,1,1]}],"loopBehavior":1,"name":"scaling animation","property":"scaling"}],"ranges":[{"name":"CameraPresetAction","from":0,"to":360}]},{"name":"Heart_N170111","id":"Heart_N170111","position":[0,0,0],"rotationQuaternion":[0,0,0,-1],"scaling":[1,1,1],"isVisible":false,"isEnabled":true,"checkCollisions":false,"billboardMode":0,"receiveShadows":false}],
+"cameras":[],
+"lights":[{"name":"FillLight","id":"FillLight","type":1,"parentId":"LightPreset","position":[1799.5837,1463.6284,0],"direction":[-0.7758,-0.631,0],"intensity":0.85,"diffuse":[0.898,0.8314,0.7059],"specular":[0.898,0.8314,0.7059]},{"name":"KeyLight","id":"KeyLight","type":1,"parentId":"LightPreset","position":[-637.2457,803.3525,-637.2457],"direction":[0.5278,-0.6654,0.5278],"intensity":1,"diffuse":[1,0.9843,0.9569],"specular":[1,0.9843,0.9569]},{"name":"BackLight","id":"BackLight","type":1,"parentId":"LightPreset","position":[-718.8444,511.1049,824.3628],"direction":[0.5954,-0.4234,-0.6828],"intensity":0.75,"diffuse":[0.4667,0.6,0.7137],"specular":[0.4667,0.6,0.7137]}],
+"shadowGenerators":[]
+}

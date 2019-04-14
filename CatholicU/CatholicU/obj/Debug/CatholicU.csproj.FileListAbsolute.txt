@@ -1,0 +1,207 @@
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\ApplicationInsights.config
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\roslyn\csc.exe
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\roslyn\System.Collections.Immutable.dll
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\roslyn\vbc.exe
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\roslyn\VBCSCompiler.exe
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\roslyn\VBCSCompiler.exe.config
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\CatholicU.dll.config
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\CatholicU.dll
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\CatholicU.pdb
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\Microsoft.AI.Web.dll
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\Microsoft.AI.WindowsServer.dll
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\Microsoft.ApplicationInsights.dll
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\Microsoft.AI.Web.xml
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\Microsoft.AI.WindowsServer.xml
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\Microsoft.ApplicationInsights.xml
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\obj\Debug\CatholicU.csprojResolveAssemblyReference.cache
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\obj\Debug\CatholicU.dll
+c:\users\01bui\onedrive\documents\visual studio 2015\Projects\CatholicU\CatholicU\obj\Debug\CatholicU.pdb
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\ApplicationInsights.config
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\roslyn\csc.exe
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\roslyn\vbc.exe
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\roslyn\VBCSCompiler.exe
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\CatholicU.dll.config
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\CatholicU.dll
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\CatholicU.pdb
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\Microsoft.AI.Web.dll
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\Microsoft.ApplicationInsights.dll
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\Microsoft.AI.Web.xml
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\Microsoft.ApplicationInsights.xml
+C:\Users\paxde\Desktop\CatholicU\CatholicU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\paxde\Desktop\CatholicU\CatholicU\obj\Debug\CatholicU.csprojResolveAssemblyReference.cache
+C:\Users\paxde\Desktop\CatholicU\CatholicU\obj\Debug\CatholicU.csproj.CoreCompileInputs.cache
+C:\Users\paxde\Desktop\CatholicU\CatholicU\obj\Debug\CatholicU.csproj.CopyComplete
+C:\Users\paxde\Desktop\CatholicU\CatholicU\obj\Debug\CatholicU.dll
+C:\Users\paxde\Desktop\CatholicU\CatholicU\obj\Debug\CatholicU.pdb
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\ApplicationInsights.config
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\roslyn\csc.exe
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\roslyn\vbc.exe
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\roslyn\VBCSCompiler.exe
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\CatholicU.dll.config
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\CatholicU.dll
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\CatholicU.pdb
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\Microsoft.AI.Web.dll
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\Microsoft.ApplicationInsights.dll
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\Microsoft.AI.Web.xml
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\Microsoft.ApplicationInsights.xml
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\obj\Debug\CatholicU.csprojResolveAssemblyReference.cache
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\obj\Debug\CatholicU.csproj.CoreCompileInputs.cache
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\obj\Debug\CatholicU.csproj.CopyComplete
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\obj\Debug\CatholicU.dll
+C:\Users\paxde\Desktop\Test\CatholicU\CatholicU\obj\Debug\CatholicU.pdb
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\ApplicationInsights.config
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\roslyn\csc.exe
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\roslyn\vbc.exe
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\roslyn\VBCSCompiler.exe
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\CatholicU.dll.config
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\CatholicU.dll
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\CatholicU.pdb
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\Microsoft.AI.Web.dll
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\Microsoft.ApplicationInsights.dll
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\Microsoft.AI.Web.xml
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\Microsoft.ApplicationInsights.xml
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\obj\Debug\CatholicU.csprojResolveAssemblyReference.cache
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\obj\Debug\CatholicU.csproj.CoreCompileInputs.cache
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\obj\Debug\CatholicU.dll
+C:\Users\01bui\Downloads\ID-4-Faithstrings--master\ID-4-Faithstrings--master\CatholicU\CatholicU\obj\Debug\CatholicU.pdb
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\ApplicationInsights.config
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\roslyn\csc.exe
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\roslyn\vbc.exe
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\roslyn\VBCSCompiler.exe
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\CatholicU.dll.config
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\CatholicU.dll
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\CatholicU.pdb
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\Microsoft.AI.Web.dll
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\Microsoft.ApplicationInsights.dll
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\Microsoft.AI.Web.xml
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\Microsoft.ApplicationInsights.xml
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\obj\Debug\CatholicU.csprojAssemblyReference.cache
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\obj\Debug\CatholicU.csproj.CoreCompileInputs.cache
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\obj\Debug\CatholicU.csproj.CopyComplete
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\obj\Debug\CatholicU.dll
+C:\Users\buim\Downloads\VHacks2018-master\VHacks2018-master\CatholicU\CatholicU\obj\Debug\CatholicU.pdb
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\ApplicationInsights.config
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\roslyn\csc.exe
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\roslyn\vbc.exe
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\roslyn\VBCSCompiler.exe
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\CatholicU.dll.config
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\CatholicU.dll
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\CatholicU.pdb
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\Microsoft.AI.Web.dll
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\Microsoft.ApplicationInsights.dll
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\Microsoft.AI.Web.xml
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\Microsoft.ApplicationInsights.xml
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\obj\Debug\CatholicU.csprojAssemblyReference.cache
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\obj\Debug\CatholicU.csproj.CoreCompileInputs.cache
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\obj\Debug\CatholicU.csproj.CopyComplete
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\obj\Debug\CatholicU.dll
+C:\Users\buim\Downloads\bitcamp2019\CatholicU\CatholicU\obj\Debug\CatholicU.pdb
