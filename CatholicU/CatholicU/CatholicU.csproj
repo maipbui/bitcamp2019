@@ -100,7 +100,6 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="scene1 - Copy.html" />
     <Content Include="scenes\Heart\Heart.babylon" />
     <Content Include="scenes\Heart\Heart.babylon.manifest" />
     <Content Include="scenes\brain.babylon" />

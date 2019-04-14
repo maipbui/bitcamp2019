@@ -185,6 +185,20 @@
                             scene.onPointerUp = function () {
                                 videoTextureS.video.play();
                             };
+
+                            // Videos
+                            var segVideo = BABYLON.MeshBuilder.CreatePlane("segVideo", { width: 3.5, height: 1.5 }, scene);
+                            segVideo.backFaceCulling = true;
+                            segVideo.position.x = -1.5;
+                            segVideo.position.y = 1.8;
+                            segVideo.position.z = 2.5;
+                            var matSV = new BABYLON.StandardMaterial("matSV", scene);
+                            var videoTextureSeg = new BABYLON.VideoTexture("segVideo", ["videos/brainseg.mp4"], scene, true);
+                            matSV.diffuseTexture = videoTextureSeg;
+                            segVideo.material = matSV;
+                            scene.onPointerUp = function () {
+                                videoTextureSeg.video.play();
+                            };
                     }));
 
                     //Set gravity for the scene (G force like, on Y-axis)
